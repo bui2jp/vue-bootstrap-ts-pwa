@@ -16,3 +16,10 @@ https://www.typescriptlang.org/
 https://developer.mozilla.org/ja/docs/Web/Progressive_web_apps
 
 
+## Environment
+```
+$ node -v 
+v10.15.3
+$ npm -v 
+6.4.1
+```
