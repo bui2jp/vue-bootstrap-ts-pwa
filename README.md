@@ -25,7 +25,6 @@ $ npm -v
 ```
 
 ## How to start (create project)
-
 '''
 npm install -g @vue/cli
 '''
