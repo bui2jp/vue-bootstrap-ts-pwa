@@ -30,7 +30,6 @@ $ npm -v
 npm install -g @vue/cli
 '''
 
-bootstrap-vue
 '''
 npm install --save-dev bootstrap-vue
 '''
