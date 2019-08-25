@@ -12,7 +12,7 @@ https://jp.vuejs.org/index.html
 https://getbootstrap.com/
 ### typescript
 https://www.typescriptlang.org/
-### PWA (Progressive Web Application)
+### PWA (Progressive Web Apps)
 
 
 
