@@ -25,16 +25,16 @@ $ npm -v
 ```
 
 ## How to start (create project)
-'''
+```
 npm install -g @vue/cli
-'''
+```
 
-'''
+```
 npm install --save-dev bootstrap-vue
-'''
+```
 
 VUE プロジェクトを新規作成
-'''
+```
 vue create my-project
-'''
+```
 
